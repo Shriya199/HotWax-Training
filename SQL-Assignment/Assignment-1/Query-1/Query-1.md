@@ -1,8 +1,8 @@
 # Q1:  Total number of shipments in January 2022 first quarter
 
-## Description
+### Description
 
-### Determine the total count of shipments made during the first quarter of 2022, specifically in the month of January.
+#### Determine the total count of shipments made during the first quarter of 2022, specifically in the month of January.
 ---
 
 ## SQL Query
